@@ -1,0 +1,3 @@
+Each working data pipeline is designed like a log; 
+each broken data pipeline is broken in its own way 
+- Count Leo Tolstoy
