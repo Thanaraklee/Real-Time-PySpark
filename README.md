@@ -32,5 +32,8 @@ By completing this project, you will achieve the following gains:
 ## Data Description
 Throughout the project, we will work with the [TLC (Taxi and Limousine Commission)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) Trip Record Data, a dataset containing detailed information about taxi trips in New York City. This dataset provides a real-world context for applying PySpark's capabilities to real-time data analysis.
 
+## Workflow
+
+![image](./Img/Simple-project-workflow.svg)
 
 
