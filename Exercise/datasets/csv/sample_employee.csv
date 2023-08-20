@@ -1,0 +1,7 @@
+employee_id,department_name,name,last_name,hire_timestamp
+1,Big Data,Carlos,Contreras,2023-08-20 13:20:10
+2,Finance,John,Doe,2023-08-20 13:20:12
+3,Marketing,Karla,Suarez,2023-08-20 13:20:13
+4,Design,Mohammed,Gupta,2023-08-20 13:20:14
+5,Software Engineering,Sharma,Devi,2023-08-20 13:20:15
+6,Big Data,Patrice,Johnson,2023-08-20 13:20:16

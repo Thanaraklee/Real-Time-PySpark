@@ -1,0 +1,46 @@
+[
+    {
+        "department_id": 1,
+        "budget": 16000,
+        "budget_period": "year",
+        "offices": [
+            {
+                "cost_center": {
+                    "office": "new york",
+                    "budget_status": "denied"
+                }
+            },
+            {
+                "cost_center": {
+                    "office": "mumbai",
+                    "budget_status": "approved"
+                }
+            },
+            {
+                "cost_center": {
+                    "office": "san francisco",
+                    "budget_status": "approved"
+                }
+            }
+        ]
+    },
+    {
+        "department_id": 2,
+        "budget": 23000,
+        "budget_period": "year",
+        "budget_authorizer": [
+            {
+                "cto": {
+                    "office": "new york",
+                    "name": "joe",
+                    "last_name":"doe"
+                }
+            }
+        ]
+    },
+    {
+        "department_id": 3,
+        "budget": 12000,
+        "budget_period": "year"
+    }
+]
