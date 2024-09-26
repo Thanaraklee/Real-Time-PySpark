@@ -1,7 +1,7 @@
 # Real-Time PySpark Project
 
 <p align="center">
-  <img src="https://www.gktcs.in/media/blog_pics/2019/07/02/pyspark.png" alt="PySpark" />
+  <img src="https://github.com/user-attachments/assets/6ca6fb9d-8cea-4332-af50-6c97cd788148" alt="PySpark" style="width:500px;" />
 </p>
 
 Welcome to the "Real-Time PySpark Project." In this project, we will delve into the fundamentals of PySpark, an open-source distributed data processing and analysis framework. Our goal is to provide you with a solid understanding of PySpark's core concepts and its applications in processing and analyzing large-scale datasets in real-time.
